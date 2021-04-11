@@ -1,4 +1,4 @@
-# DineWithMe REACT
+# DineWithMe-react
 
 [Backend](https://github.com/tomasgule/dineWithMe-backend)
 
